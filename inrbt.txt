@@ -1,0 +1,10 @@
+int xvar;
+int yvar;
+int zvar;
+float rfl;
+float sfl;
+float tfl;
+xvar = 5;
+yvar = 7;
+rfl = 5.5;
+sfl = 6.5;
